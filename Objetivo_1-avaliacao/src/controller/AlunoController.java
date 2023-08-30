@@ -69,13 +69,13 @@ public class AlunoController {
 
         System.out.println("\nPesquisa na coleção:\n");
         Aluno alunosFind = alunosList.stream().filter(a -> a.getNome().equals("Leonardo")).findAny().orElse(null);
-        System.out.print("\nEncontrando aluno na coleção do tipo List pelo id");
+        System.out.print("\nEncontrando aluno na coleção do tipo List:");
         System.out.println(alunosFind);
 
         //Coleção tipo Map
         System.out.println("\nColeção tipo Map:\n");
         Map<Integer,Aluno> alunosMap = new HashMap<>();
-        alunosMap.put(aluno1.getId(), aluno1);//Como ordenar o id se ele é um inteiro??? precisa ser string!!
+        alunosMap.put(aluno1.getId(), aluno1);
         alunosMap.put(aluno2.getId(), aluno2);
         alunosMap.put(aluno3.getId(), aluno3);
         alunosMap.put(aluno4.getId(), aluno4);
@@ -83,7 +83,7 @@ public class AlunoController {
         alunosMap.put(aluno6.getId(), aluno6);
         System.out.println(alunosMap);
 
-        System.out.println("\nPesquisa tipo Map:\n");
+        System.out.println("\nPesquisa tipo Map:\n"); //id=5
         System.out.println(alunosMap.get(5));
 
         //Reordenando na ordem decrescente
