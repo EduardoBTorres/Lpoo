@@ -91,10 +91,6 @@ public class AlunoController {
 
         alunosList.sort(Comparator.comparing(Aluno::getId).reversed());
         System.out.println(alunosList);
-        System.out.println("aaaaa");
-
-
-
 
 
     }
