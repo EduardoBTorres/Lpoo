@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lpoo_EduardoTorres.iml" filepath="$PROJECT_DIR$/Lpoo_EduardoTorres.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Objetivo_1-avaliacao/Objetivo_1-avaliacao.iml" filepath="$PROJECT_DIR$/Objetivo_1-avaliacao/Objetivo_1-avaliacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objetivo1-avaliacao/Objetivo1-avaliacao.iml" filepath="$PROJECT_DIR$/Objetivo1-avaliacao/Objetivo1-avaliacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objetivo1_Lista_2/Objetivo1_Lista_2.iml" filepath="$PROJECT_DIR$/Objetivo1_Lista_2/Objetivo1_Lista_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objetivo2_Heranca_lista1/Objetivo2_Heranca_lista1.iml" filepath="$PROJECT_DIR$/Objetivo2_Heranca_lista1/Objetivo2_Heranca_lista1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objetivo2_heranca_simples/objetivo2_heranca_simples.iml" filepath="$PROJECT_DIR$/objetivo2_heranca_simples/objetivo2_heranca_simples.iml" />
     </modules>
   </component>
 </project>
