@@ -74,7 +74,7 @@ public class CarroController {
         System.out.println("Encontrando objeto pela chave id");
         System.out.println(carroMap.get(3));
 
-        //Ordenando coleção list com reversed
+        //Ordenando coleção do tipo list com reversed
 
         System.out.println("Ordenando na ordem decrescente tipo List:");
         carrosList.sort(Comparator.comparing(Carro::getId).reversed());
