@@ -7,7 +7,7 @@ import java.util.*;
 public class AlunoController {
     public static void main(String[] args) {
 
-        //criando instâncias da classe de modelo
+        //Criando instâncias da classe de modelo
         Aluno aluno1 = new Aluno();
         Aluno aluno2 = new Aluno();
         Aluno aluno3 = new Aluno(3, 12345, "Eduardo", "Torres", "eduardobtorres17@gmail.com");
