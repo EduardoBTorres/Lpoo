@@ -4,7 +4,8 @@ import model.*;
 
 public class ContaController {
     public static void main(String[] args) {
-      //  Conta c1 = new Conta();
+
+      // Conta c1 = new Conta();
         //System.out.println(c1);
 
         ContaCorrente cc1 = new ContaCorrente();
@@ -26,9 +27,5 @@ public class ContaController {
 
         ContaPoupancaSalario cps1 = new ContaPoupancaSalario();
         System.out.println(cps1);
-
-
-
-
     }
 }

@@ -1,7 +1,10 @@
 package model;
 
-public class Automovel {
-    public abstract String getRenavam();
-    public abstract
+public interface Automovel {
+    String getRenavam();
+    void setRenavam(String renavam);
+    String getChassi();
+    void setChassi(String chassi);
+    String getPlaca();
+    void setPlaca(String placa);
 }
-
