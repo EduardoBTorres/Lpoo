@@ -19,7 +19,6 @@ public class FuncionarioController {
         System.out.println(d1);
         System.out.println(d2);
 
-
         g1.setNome("Rita");
         g1.setSalario(3000.00);
         d1.setNome("Pedro");
