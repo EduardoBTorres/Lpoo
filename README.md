@@ -1,2 +1,2 @@
 # Lpoo
-aulas de lpoo acesso a banco de dados com Spring Data 
+Obejtivos de Programação Orientada a Objetos e acesso a banco de dados com Spring Data 
